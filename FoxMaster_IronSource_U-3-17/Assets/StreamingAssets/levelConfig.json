@@ -1,0 +1,296 @@
+{
+  "levelConfigList": [
+    {
+      "levelID": 1,
+      "levelName": "level1"
+    },
+    {
+      "levelID": 2,
+      "levelName": "level2"
+    },
+    {
+      "levelID": 3,
+      "levelName": "level3"
+    },
+    {
+      "levelID": 4,
+      "levelName": "level4"
+    },
+    {
+      "levelID": 5,
+      "levelName": "level5"
+    },
+    {
+      "levelID": 6,
+      "levelName": "level6"
+    },
+    {
+      "levelID": 7,
+      "levelName": "level7"
+    },
+    {
+      "levelID": 8,
+      "levelName": "level8"
+    },
+    {
+      "levelID": 9,
+      "levelName": "level9"
+    },
+    {
+      "levelID": 10,
+      "levelName": "level10"
+    },
+    {
+      "levelID": 11,
+      "levelName": "level11"
+    },
+    {
+      "levelID": 12,
+      "levelName": "level12"
+    },
+    {
+      "levelID": 13,
+      "levelName": "level13"
+    },
+    {
+      "levelID": 14,
+      "levelName": "level14"
+    },
+    {
+      "levelID": 15,
+      "levelName": "level15"
+    },
+    {
+      "levelID": 16,
+      "levelName": "level16"
+    },
+    {
+      "levelID": 17,
+      "levelName": "level17"
+    },
+    {
+      "levelID": 18,
+      "levelName": "level18"
+    },
+    {
+      "levelID": 19,
+      "levelName": "level19"
+    },
+    {
+      "levelID": 20,
+      "levelName": "level20"
+    },
+    {
+      "levelID": 21,
+      "levelName": "level21"
+    },
+    {
+      "levelID": 22,
+      "levelName": "level22"
+    },
+    {
+      "levelID": 23,
+      "levelName": "level23"
+    },
+    {
+      "levelID": 24,
+      "levelName": "level24"
+    },
+    {
+      "levelID": 25,
+      "levelName": "level25"
+    },
+    {
+      "levelID": 26,
+      "levelName": "level21"
+    },
+    {
+      "levelID": 27,
+      "levelName": "level22"
+    },
+    {
+      "levelID": 28,
+      "levelName": "level23"
+    },
+    {
+      "levelID": 29,
+      "levelName": "level24"
+    },
+    {
+      "levelID": 30,
+      "levelName": "level25"
+    },
+    {
+      "levelID": 31,
+      "levelName": "level24"
+    },
+    {
+      "levelID": 32,
+      "levelName": "level25"
+    },
+    {
+      "levelID": 12,
+      "levelName": "level12"
+    },
+    {
+      "levelID": 13,
+      "levelName": "level13"
+    },
+    {
+      "levelID": 14,
+      "levelName": "level14"
+    },
+    {
+      "levelID": 15,
+      "levelName": "level15"
+    },
+    {
+      "levelID": 16,
+      "levelName": "level16"
+    },
+    {
+      "levelID": 17,
+      "levelName": "level17"
+    },
+    {
+      "levelID": 18,
+      "levelName": "level18"
+    },
+    {
+      "levelID": 19,
+      "levelName": "level19"
+    },
+    {
+      "levelID": 20,
+      "levelName": "level20"
+    },
+    {
+      "levelID": 21,
+      "levelName": "level21"
+    },
+    {
+      "levelID": 22,
+      "levelName": "level22"
+    },
+    {
+      "levelID": 23,
+      "levelName": "level23"
+    },
+    {
+      "levelID": 24,
+      "levelName": "level24"
+    },
+    {
+      "levelID": 25,
+      "levelName": "level25"
+    },
+    {
+      "levelID": 26,
+      "levelName": "level21"
+    },
+    {
+      "levelID": 27,
+      "levelName": "level22"
+    },
+    {
+      "levelID": 28,
+      "levelName": "level23"
+    },
+    {
+      "levelID": 29,
+      "levelName": "level24"
+    },
+    {
+      "levelID": 30,
+      "levelName": "level25"
+    },
+    {
+      "levelID": 31,
+      "levelName": "level24"
+    },
+    {
+      "levelID": 32,
+      "levelName": "level25"
+    },
+    {
+      "levelID": 12,
+      "levelName": "level12"
+    },
+    {
+      "levelID": 13,
+      "levelName": "level13"
+    },
+    {
+      "levelID": 14,
+      "levelName": "level14"
+    },
+    {
+      "levelID": 15,
+      "levelName": "level15"
+    },
+    {
+      "levelID": 16,
+      "levelName": "level16"
+    },
+    {
+      "levelID": 17,
+      "levelName": "level17"
+    },
+    {
+      "levelID": 18,
+      "levelName": "level18"
+    },
+    {
+      "levelID": 19,
+      "levelName": "level19"
+    },
+    {
+      "levelID": 20,
+      "levelName": "level20"
+    },
+    {
+      "levelID": 21,
+      "levelName": "level21"
+    },
+    {
+      "levelID": 22,
+      "levelName": "level22"
+    },
+    {
+      "levelID": 23,
+      "levelName": "level23"
+    },
+    {
+      "levelID": 24,
+      "levelName": "level24"
+    },
+    {
+      "levelID": 25,
+      "levelName": "level25"
+    },
+    {
+      "levelID": 26,
+      "levelName": "level21"
+    },
+    {
+      "levelID": 27,
+      "levelName": "level22"
+    },
+    {
+      "levelID": 28,
+      "levelName": "level23"
+    },
+    {
+      "levelID": 29,
+      "levelName": "level24"
+    },
+    {
+      "levelID": 30,
+      "levelName": "level25"
+    },
+    {
+      "levelID": 31,
+      "levelName": "level24"
+    }
+  ]
+}
